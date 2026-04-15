@@ -1,1 +1,0 @@
-import{_ as t,o as i,c as l,ai as a}from"./chunks/framework.B3x_xFnx.js";const u=JSON.parse('{"title":"会员服务协议","description":"","frontmatter":{},"headers":[],"relativePath":"service.md","filePath":"service.md"}'),o={name:"service.md"};function p(r,e,s,_,c,n){return i(),l("div",null,[...e[0]||(e[0]=[a("",2)])])}const T=t(o,[["render",p]]);export{u as __pageData,T as default};
